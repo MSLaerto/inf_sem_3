@@ -1,0 +1,6 @@
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/vagon/CMakeFiles/vagon.dir
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/vagon/CMakeFiles/edit_cache.dir
+C:/Users/1/CLionProjects/OOPprog2/cmake-build-debug/vagon/CMakeFiles/rebuild_cache.dir
